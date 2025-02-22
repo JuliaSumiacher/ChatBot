@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ex="http://wiki_7wonders.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/7_Wonders">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Game"/>
+    <ex:designedBy rdf:resource="http://wiki_7wonders.org/Antoine_Bauza"/>
+    <ex:artBy rdf:resource="http://wiki_7wonders.org/Dimitri_Chappuis"/>
+    <ex:artBy rdf:resource="http://wiki_7wonders.org/Miguel_Coimbra"/>
+    <ex:artBy rdf:resource="http://wiki_7wonders.org/Etienne_Hebinger"/>
+    <ex:artBy rdf:resource="http://wiki_7wonders.org/Cyril_Nouvel"/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/Repos_Production"/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/ADC_Blackfire_Entertainment"/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/Asterion_Press"/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/Gal%C3%A1pagos_Jogos"/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/G%C3%A9m_Klub_Kft."/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/Hobby_Japan"/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/Kaissa_Chess_%26_Games"/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/Korea_Boardgames"/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/Lautapelit.fi"/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/Lifestyle_Boardgames_Ltd"/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/NeoTroy_Games"/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/Rebel_Sp._z_o.o."/>
+    <ex:publishedBy rdf:resource="http://wiki_7wonders.org/Siam_Board_Games"/>
+    <ex:inspiredBy rdf:resource="http://wiki_7wonders.org/Greece"/>
+    <ex:categorizedAs rdf:resource="http://wiki_7wonders.org/Dized_Tutorial"/>
+    <ex:alsoKnownAs rdf:resource="http://wiki_7wonders.org/7_csoda"/>
+    <ex:alsoKnownAs rdf:resource="http://wiki_7wonders.org/7_Cud%C3%B3w_%C5%9Awiata"/>
+    <ex:alsoKnownAs rdf:resource="http://wiki_7wonders.org/7_div%C5%AF_sv%C4%9Bta"/>
+    <ex:alsoKnownAs rdf:resource="http://wiki_7wonders.org/7_%D1%87%D1%83%D0%B4%D0%B5%D1%81"/>
+    <ex:alsoKnownAs rdf:resource="http://wiki_7wonders.org/7_%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C"/>
+    <ex:alsoKnownAs rdf:resource="http://wiki_7wonders.org/7_%EC%9B%90%EB%8D%94%EC%8A%A4"/>
+    <ex:alsoKnownAs rdf:resource="http://wiki_7wonders.org/%CE%A4%CE%B1_7_%CE%B8%CE%B1%CF%8D%CE%BC%CE%B1%CF%84%CE%B1_%CF%84%CE%BF%CF%85_%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%85"/>
+    <ex:alsoKnownAs rdf:resource="http://wiki_7wonders.org/%E4%B8%83%E5%A4%A7%E5%A5%87%E8%B9%9F"/>
+    <ex:alsoKnownAs rdf:resource="http://wiki_7wonders.org/%E4%B8%83%E5%A4%A7%E5%A5%87%E8%BF%B9"/>
+    <ex:alsoKnownAs rdf:resource="http://wiki_7wonders.org/%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0"/>
+    <ex:awardedOrNominated rdf:resource="http://wiki_7wonders.org/2012_-_Ludoteca_Ideale_Winner"/>
+    <ex:awardedOrNominated rdf:resource="http://wiki_7wonders.org/2011_-_/2012_Boardgames_Australia_Awards_Best_International_Game_Nominee"/>
+    <ex:awardedOrNominated rdf:resource="http://wiki_7wonders.org/2011_-_Vuoden_Peli_Adult_Game_of_the_Year_Winner"/>
+    <ex:awardedOrNominated rdf:resource="http://wiki_7wonders.org/2011_-_Vuoden_Peli_Adult_Game_of_the_Year_Nominee"/>
+    <ex:Release_year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2010</ex:Release_year>
+    <ex:Release_year rdf:resource="http://wiki_7wonders.org/2010"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/G%C3%A9m_Klub_Kft.">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/%E4%B8%83%E5%A4%A7%E5%A5%87%E8%B9%9F">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/2011_-_Vuoden_Peli_Adult_Game_of_the_Year_Winner">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Award"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/7_Cud%C3%B3w_%C5%9Awiata">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/2010">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Release_year"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/2011_-_/2012_Boardgames_Australia_Awards_Best_International_Game_Nominee">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Award"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/%E4%B8%83%E5%A4%A7%E5%A5%87%E8%BF%B9">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/%CE%A4%CE%B1_7_%CE%B8%CE%B1%CF%8D%CE%BC%CE%B1%CF%84%CE%B1_%CF%84%CE%BF%CF%85_%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%85">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Asterion_Press">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Kaissa_Chess_%26_Games">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Cyril_Nouvel">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Artist"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Gal%C3%A1pagos_Jogos">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/NeoTroy_Games">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/7_%D1%87%D1%83%D0%B4%D0%B5%D1%81">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Repos_Production">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/7_div%C5%AF_sv%C4%9Bta">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/7_csoda">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Rebel_Sp._z_o.o.">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Korea_Boardgames">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Lifestyle_Boardgames_Ltd">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Antoine_Bauza">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Designer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Miguel_Coimbra">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Artist"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/2012_-_Ludoteca_Ideale_Winner">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Award"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Dized_Tutorial">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Hobby_Japan">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Greece">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Ancient"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/ADC_Blackfire_Entertainment">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/7_%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Etienne_Hebinger">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Artist"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Siam_Board_Games">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/7_%EC%9B%90%EB%8D%94%EC%8A%A4">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/AlternativeName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/2011_-_Vuoden_Peli_Adult_Game_of_the_Year_Nominee">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Award"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Dimitri_Chappuis">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Artist"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wiki_7wonders.org/Lautapelit.fi">
+    <rdf:type rdf:resource="http://wiki_7wonders.org/Publisher"/>
+  </rdf:Description>
+</rdf:RDF>
